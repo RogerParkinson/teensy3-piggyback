@@ -521,10 +521,10 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="2.949525" y="49.598925" size="0.4064" layer="21" rot="R90"/>
 </element>
 <element name="R2" library="SparkFun" package="0805" value="2k ohm" x="15.24" y="58.42" smashed="yes">
-<attribute name="VALUE" x="17.085078125" y="57.28013125" size="0.4064" layer="27" rot="R90"/>
+<attribute name="VALUE" x="17.085078125" y="57.28013125" size="0.4064" layer="21" rot="R90"/>
 </element>
 <element name="C1" library="SparkFun" package="0805" value="4.7uF" x="11.43" y="57.15" smashed="yes" rot="R90">
-<attribute name="VALUE" x="12.827" y="56.134" size="0.4064" layer="27" rot="R90"/>
+<attribute name="VALUE" x="12.827" y="56.134" size="0.4064" layer="21" rot="R90"/>
 </element>
 <element name="CN1" library="adafruit" package="JST-PH-2-THM" value="Battery" x="2.54" y="55.88" smashed="yes" rot="R90"/>
 <element name="C2" library="SparkFun" package="0805" value="4.7uF" x="15.24" y="55.88" smashed="yes">
@@ -538,7 +538,7 @@ Please make sure your boards conform to these design rules.</description>
 </element>
 <element name="S1" library="SparkFun-Electromechanical" package="TACTILE_SWITCH_SMD" value="Reboot" x="10.16" y="49.53" smashed="yes">
 <attribute name="PROD_ID" value="SWCH-08247" x="26.67" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="9.32920625" y="46.507778125" size="0.4064" layer="27"/>
+<attribute name="VALUE" x="9.32920625" y="46.507778125" size="0.4064" layer="21"/>
 </element>
 <element name="MICROSD" library="SparkFun-Connectors" package="MICRO-SD-SOCKET-PP" value="USD-SOCKETNEW" x="16.51" y="73.66" smashed="yes" rot="R90">
 <attribute name="NAME" x="10.16" y="64.77" size="0.8128" layer="21" rot="R90"/>
@@ -548,10 +548,10 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="5.08" y="76.2" size="1.27" layer="25" font="vector"/>
 </element>
 <element name="R3" library="SparkFun-Resistors" package="0805" value="10k" x="15.24" y="50.8" smashed="yes">
-<attribute name="VALUE" x="14.136321875" y="49.6562625" size="0.4064" layer="27"/>
+<attribute name="VALUE" x="14.136321875" y="49.6562625" size="0.4064" layer="21"/>
 </element>
 <element name="R5" library="SparkFun-Resistors" package="0805" value="330" x="15.24" y="53.34" smashed="yes">
-<attribute name="VALUE" x="14.224" y="51.943" size="0.4064" layer="27"/>
+<attribute name="VALUE" x="14.224" y="51.943" size="0.4064" layer="21"/>
 </element>
 </elements>
 <signals>
